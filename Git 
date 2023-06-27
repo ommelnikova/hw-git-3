@@ -1,0 +1,7 @@
+ git checkout
+You can use the checkout command to switch the branch that you are currently working on.
+
+git checkout <branch name>
+If you want to create a new branch and switch to it, you can do it by using this command:
+
+git checkout -b <branch name>
